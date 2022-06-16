@@ -8,5 +8,3 @@ Hi, My name is Adaeze and i am a Frontend web developer 😄. I design and build
 - 💬 Ask me about anything, i will tell you what i do not know.
 - ⚡ Fun fact: I have a PhD in Web Development, which stands fro Projects Half-Done 😄
 
-Download Resume
-https://drive.google.com/uc?export=download&id=1YtUd98rrTYNBc8KASSw0OtElpccXcrgt

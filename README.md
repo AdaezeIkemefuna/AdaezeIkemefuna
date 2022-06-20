@@ -6,5 +6,5 @@ Hi, My name is Adaeze and i am a Frontend web developer 😄. I design and build
 - 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on projects and also network.  
 - 💬 Ask me about anything, i will tell you what i do not know.
-- ⚡ Fun fact: I have a PhD in Web Development, which stands fro Projects Half-Done 😄
+- ⚡ Fun fact: I have a PhD in Web Development, which stands for Projects Half-Done 😄
 

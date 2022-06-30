@@ -12,7 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/AdaezeIkemefuna">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdaezeIkemefuna&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src='https://github-readme-stats.vercel.app/api?username=AdaezeIkemefuna)](https://github.com/AdaezeIkemefuna/github-readme-stats'/>
+                                      
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaezeIkemefuna&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>

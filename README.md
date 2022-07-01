@@ -2,7 +2,7 @@
 ## My name is Adaeze Ikemefuna and I am a Frontend Developer 
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AdaezeIkemefuna&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AdaezeIkemefuna&show_icons=true&theme=radical&include_all_commits=true" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaezeIkemefuna&layout=compact&theme=radical"/>
 

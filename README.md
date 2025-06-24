@@ -1,5 +1,5 @@
 # Hi there 👋
-## My name is Adaeze Ikemefuna and I am a Frontend Developer 
+## My name is Adaeze Ikemefuna and I am a Software Developer 
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AdaezeIkemefuna&show_icons=true&theme=radical&include_all_commits=true" />

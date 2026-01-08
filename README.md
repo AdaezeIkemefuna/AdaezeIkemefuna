@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=AdaezeIkemefuna&theme=monokai&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-pied-rho-38.vercel.app/?user=AdaezeIkemefuna&theme=monokai&hide_border=true" alt="GitHub Streak" />
 </a>
 </p>
 

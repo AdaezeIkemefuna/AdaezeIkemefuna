@@ -52,11 +52,4 @@
 
 ### 📫 Let's Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/adaeze-ikemefuna-b76550194/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:hamsaikemefuna@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/adaeze-ikemefuna-b76550194/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:hamsaikemefuna@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://medium.com/@hamsaikemefuna" target="_blank"> <img src="https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> </a> </p>
